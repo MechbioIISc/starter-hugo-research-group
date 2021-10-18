@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Want to join us?
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Recent & Upcoming Events
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: Interested in understanding complex biological systems
   caption: ""
   image: ""
 ---
