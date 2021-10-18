@@ -8,7 +8,7 @@ title: Want to join us?
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header: Interested in understanding complex biological systems
+header: Interested in understanding complex biological systems?
 #  caption: ""
 #  image: ""
 ---
