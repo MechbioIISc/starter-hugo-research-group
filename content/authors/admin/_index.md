@@ -20,7 +20,8 @@ interests:
 - Epithelial Defense Against Cancer
 - Tissue heterogenity
 
-Last degree:
+education:
+courses:
   - course: PhD in Bioengineering
     institution: EPFL
     year: 2017
@@ -58,7 +59,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups: Principal Investigators
+user_groups: 
+- Principal Investigators
 
 ---
 
