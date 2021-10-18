@@ -29,7 +29,7 @@ opportunities: We are constantly looking for bright minds to join our lab. Curre
 # tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
