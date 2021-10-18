@@ -12,7 +12,7 @@ location: BSSE, IISc Bangalore
  # postcode: '94305'
  # country: United States
 
-opportunities: We are constantly looking for bright minds to join our lab. Please write to us if you feel that the main motto and interest of the lab matches with yours. There are several ways to support PhD students, PostDocs, Research assitant, and interns at IISc and we will try to help your application in the best way possible. Please visit job vacancy section of the official webpage of IISc for more information. 
+opportunities: We are constantly looking for bright minds to join our lab. Currently there are no open vacancies in already running or new projects. Nevertheless, Please write to us if you feel that the main motto and interest of the lab matches with yours. There are several ways to support applications from PhD students, Post-Docs, Research assitant, and interns at IISc and we will try to help your application in the best way possible. Please visit job vacancy section of the official webpage of IISc for more information. 
 
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
