@@ -5,14 +5,14 @@ title: open vacancies
 # event_url: https://example.org
 
 location: BSSE, IISc Bangalore
-# address:
- # street: 450 Serra Mall
- # city: Stanford
- # region: CA
- # postcode: '94305'
- # country: United States
+ address:
+  street: C. V. Raman Road
+  city: Bengaluru
+  region: Karnataka
+  postcode: '560012'
+  country: India
 
-opportunities: We are constantly looking for bright minds to join our lab. Currently there are no open vacancies in already running or new projects. Nevertheless, Please write to us if you feel that the main motto and interest of the lab matches with yours. There are several ways to support applications from PhD students, Post-Docs, Research assitant, and interns at IISc and we will try to help your application in the best way possible. Please visit job vacancy section of the official webpage of IISc for more information. 
+Summary: We are constantly looking for bright minds to join our lab. 
 
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
@@ -54,12 +54,6 @@ featured: false
 #   Otherwise, set `projects = []`.
 # projects:
 
-# Slides can be added in a few ways:
-
-# - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-# Further event details, including page elements such as image galleries, can be added to the body of this page.
+Currently there are no open vacancies in already running or new projects. Nevertheless, Please write to us if you feel that the main motto and interest of the lab matches with yours. There are several ways to support applications from PhD students, Post-Docs, Research assitant, and interns at IISc and we will try to help your application in the best way possible. Please visit job vacancy section of the official webpage of IISc for more information.
 
 ---
