@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
-# - Researchers
+- Principal Investigator
 ---
 
 During my PhD, I studied the role of physical forces along with biological pathways in collective cell migration. I found that biological systems are not driven only by bio-chemical reactions but also by physical forces and its environment. Therefore, studying only one pathway will reveal only one side of the coin. Hence I decided to study biosystems with a multidisciplinary approach. If you are interested in sharing your experiences of working with complex biological systems, or you are looking for a collaboration, or just want to have a chat about research, please get in touch.
