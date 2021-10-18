@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Ongoing projects
 
 # View.
 #   1 = List
