@@ -29,9 +29,9 @@ opportunities: We are constantly looking for bright minds to join our lab. Curre
 # tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
-#image:
+# image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
@@ -53,7 +53,6 @@ featured: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects:
----
 
 # Slides can be added in a few ways:
 
@@ -62,3 +61,5 @@ featured: false
 # - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 # Further event details, including page elements such as image galleries, can be added to the body of this page.
+
+---
