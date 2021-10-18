@@ -18,7 +18,7 @@ content:
   user_groups:
   - Assistant Professor
   - Researchers
-  - PhD students
+  - PhD Student
   - Administration
   - Visitors
   - Alumni
