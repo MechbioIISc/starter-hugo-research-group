@@ -20,9 +20,9 @@ interests:
 
 
 Last degree:
-  - course: Masters
-    institution: ..
-    year: ..
+  - course: NA
+    institution: NA
+    year: NA
 
 
 # Social/Academic Networking
