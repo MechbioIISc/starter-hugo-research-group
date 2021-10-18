@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wecome to the webpage for our group
+  Wecome to the webpage of EMBRG
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,7 +19,7 @@ design:
 
 <br>
 
-**Who are we**
+**Who  we are**
 
 We are a team of multidisciplinary researchers interested in understanding biological systems using tools from applied cell-biology, bioengineering and soft matter physics. Primarily, we study mechanics and biology of epithelial tissues in the context of cancer.
 
