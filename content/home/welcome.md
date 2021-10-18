@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Wecome to the Epithelial Mechano-Biology Research Group at BSSE, IISc
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,12 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Who are we**
+
+We are a team of multidisciplinary researchers interested in understanding biological systems using tools from applied cell-biology, bioengineering and soft matter physics. Primarily, we study mechanics and biology of epithelial tissues in the context of cancer.
+
+**What we do**
+
+We use experimental techniques such as gene editing, high resolution live cell imaging, traction force microscopy and reflection interference contrast microscopy, in tandem with concepts from soft matter physics to obtain a Bio-physical understanding of EDAC. To make sense of our experiments, we complement them with computational tools such as automated cell segmentation and cell tracking.
+
+
